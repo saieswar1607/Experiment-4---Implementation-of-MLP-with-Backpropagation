@@ -119,8 +119,8 @@ In the backward pass,
 
 ### PROGRAM
 
-### Developed BY:Challa sandeep
-### Register No:212221240011
+### Developed BY:Sai Eswar Kandukuri
+### Register No:212221240020
 
 ```
 import pandas as pd
@@ -160,6 +160,18 @@ print(classification_report(y_test,predictions))
 
 ```
 
-## OUTPUT 
+## OUTPUT
+
+<img width="527" alt="nn1" src="https://user-images.githubusercontent.com/93427011/200045755-e3c6141c-10d6-4754-98d5-70bc36f6576e.png">
+
+<img width="464" alt="nn2" src="https://user-images.githubusercontent.com/93427011/200045775-33bed1c7-a895-470c-b6e4-f29926f934fe.png">
+
+<img width="450" alt="nn3" src="https://user-images.githubusercontent.com/93427011/200045783-ca96bf04-f46b-4d50-a3d9-0d15eda2e04b.png">
+
+<img width="450" alt="nn4" src="https://user-images.githubusercontent.com/93427011/200045813-2f3766d7-3fa8-4849-85c0-e66c2a6d9ee7.png">
+
+
 
 ## RESULT
+Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
+
