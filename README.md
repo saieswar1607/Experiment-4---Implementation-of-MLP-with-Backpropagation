@@ -161,16 +161,17 @@ print(classification_report(y_test,predictions))
 ```
 
 ## OUTPUT
+<img width="527" alt="nn1" src="https://user-images.githubusercontent.com/93427011/200046431-3a64ba43-cf4d-4530-bb92-f10691c3db51.png">
 
-<img width="527" alt="nn1" src="https://user-images.githubusercontent.com/93427011/200045755-e3c6141c-10d6-4754-98d5-70bc36f6576e.png">
+<img width="464" alt="nn2" src="https://user-images.githubusercontent.com/93427011/200046443-bc94a5d0-9865-48e0-a963-992583513776.png">
 
-<img width="464" alt="nn2" src="https://user-images.githubusercontent.com/93427011/200045775-33bed1c7-a895-470c-b6e4-f29926f934fe.png">
+<img width="450" alt="nn3" src="https://user-images.githubusercontent.com/93427011/200046460-d4ca38e8-a425-4f41-83e5-59a7e284f68a.png">
 
-<img width="450" alt="nn3" src="https://user-images.githubusercontent.com/93427011/200045783-ca96bf04-f46b-4d50-a3d9-0d15eda2e04b.png">
+<img width="450" alt="nn4" src="https://user-images.githubusercontent.com/93427011/200046470-41782974-c1a3-4c52-b68e-89c54bfc34c1.png">
 
-<img width="450" alt="nn4" src="https://user-images.githubusercontent.com/93427011/200045813-2f3766d7-3fa8-4849-85c0-e66c2a6d9ee7.png">
+<img width="527" alt="nn5" src="https://user-images.githubusercontent.com/93427011/200046479-cb24f36b-6d2d-48f4-9e7c-f452ac4ec6e2.png">
 
-
+<img width="514" alt="nn6" src="https://user-images.githubusercontent.com/93427011/200046490-7ff6aa33-43c1-4a7e-975f-48a8e4c576a4.png">
 
 ## RESULT
 Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
