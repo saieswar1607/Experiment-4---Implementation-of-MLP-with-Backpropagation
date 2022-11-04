@@ -165,8 +165,6 @@ print(classification_report(y_test,predictions))
 
 <img width="464" alt="nn2" src="https://user-images.githubusercontent.com/93427011/200046443-bc94a5d0-9865-48e0-a963-992583513776.png">
 
-<img width="450" alt="nn3" src="https://user-images.githubusercontent.com/93427011/200046460-d4ca38e8-a425-4f41-83e5-59a7e284f68a.png">
-
 <img width="450" alt="nn4" src="https://user-images.githubusercontent.com/93427011/200046470-41782974-c1a3-4c52-b68e-89c54bfc34c1.png">
 
 <img width="527" alt="nn5" src="https://user-images.githubusercontent.com/93427011/200046479-cb24f36b-6d2d-48f4-9e7c-f452ac4ec6e2.png">
